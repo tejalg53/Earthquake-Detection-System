@@ -179,3 +179,8 @@ Vellore Institute of Technology
 ## License
 
 This project is intended for educational and learning purposes.
+
+
+## Demo
+
+A demonstration video of the working system is available in the [`Demo`](Demo) folder of this repository (`Demo/Demo Video.mp4`). The video shows the system detecting vibration and triggering the LCD warning, LED indicator, and buzzer alert.
