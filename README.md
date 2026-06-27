@@ -126,19 +126,22 @@ The PCB successfully passed Design Rule Check (DRC) before Gerber generation.
 Earthquake-Detection-System
 │
 ├── Arduino Code/
-│   └── Earthquake_Detection.ino
+│   └── earthquake_detection_system_1.ino
 │
 ├── PCB/
-│   ├── PCB_Layout.png
-│   └── Gerber_Files.zip
+│   ├── PCB_PCB_Smart_Vibration_Detection_Schematic_2026-06-27.png
+│   └── Gerber_Smart_Vibration_Detection_Schematic.../   (Gerber & drill files)
 │
 ├── Schematic/
-│   ├── Tinkercad_Circuit.png
-│   ├── EasyEDA_Schematic.png
-│   └── Demo_Video.mp4
+│   ├── Alert.jpeg
+│   ├── Normal.png
+│   └── Schematic_Smart_Vibration_Detection_Schematic_2026-06-27.png
 │
 ├── Report/
-│   └── Project_Report_Tejal_Gupta.pdf
+│   └── Earthquake Alert System Project Report.pdf
+│
+├── Demo/
+│   └── Demo Video.mp4
 │
 └── README.md
 ```
